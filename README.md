@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3 align="center">Currency Convertor App</h3>
+  <h3 align="center">Rest Country App</h3>
 
   <p align="center">
   This is a currency converter app, which users can search for countries and enter an amount in SEK to be converted into local currencies of selected countries. This project was made using open APIs with free licenses.
